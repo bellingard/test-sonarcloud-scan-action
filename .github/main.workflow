@@ -5,4 +5,5 @@ workflow "New workflow" {
 
 action "Run SonarCloud Scan" {
   uses = "SonarSource/sonarcloud-github-action@initial"
+  secrets = ["SONARCLOUD_TOKEN"]
 }
