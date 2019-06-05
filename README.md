@@ -1,1 +1,1 @@
-# Test-sonarcloud-scan-action
+# Test sonarcloud-scan-action
