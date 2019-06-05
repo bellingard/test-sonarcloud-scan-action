@@ -5,3 +5,5 @@ alert(`a is ${0}`)
 function foo() {
   // todo
 }
+
+let i = 2
